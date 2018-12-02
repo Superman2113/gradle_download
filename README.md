@@ -18,20 +18,35 @@
 
 然后简单说下使用方法，当然网上也有。
 
-当你使用 Android Studio 打开工程时，发现下方提示框提示 downloading gradle xxx 版本字样时，
+当你使用 Android Studio 打开工程时，发现下方提示框提示 downloading gradle xxx 版本字样时,
 从默认的 gradle 配置当中没有找到需要的 gradle 版本。
-就会从一个地址下载，可以打开 /gradle/wrapper/gradle-wrapper.properties 文件，
-可以看到 distributionUrl=https\://services.gradle.org/distributions/gradle-4.1-all.zip 
+就会从一个地址下载，可以打开 
+
+    /gradle/wrapper/gradle-wrapper.properties 文件，
+  
+可以看到 
+
+    distributionUrl=https\://services.gradle.org/distributions/gradle-4.1-all.zip
+  
 类似字样，就是从这个地址下载的，当然也可以自己访问，需要需要下载的版本。
 
-gradle 本地默认路径为: Users/xxx/.gradle (Mac OS),打开后发现 wrapper、caches 与一些其他文件，那么这个地方就是默认的 gradle 文件夹了。
-进入 /wrapper/dists/ 中能看到各种 gradle 版本文件夹，找到你需要的，
-比如 /gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/ 中间有一个随机字符串的文件夹，
-，不用修改，点进去，能发现正在下载但未完成的压缩文件，退出 Android Studio ，然后把未完成压缩文件删除，把下载好的完整压缩文件放进去，但是不要解压，
+    gradle 本地默认路径为: Users/xxx/.gradle (Mac OS)
+
+,打开后发现 wrapper、caches 与一些其他文件，那么这个地方就是默认的 gradle 文件夹了。进入 
+
+    /wrapper/dists/ 
+    
+中能看到各种 gradle 版本文件夹，找到你需要的，比如 
+
+    /gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/ 中间有一个随机字符串的文件夹，
+    
+不用修改，点进去，能发现正在下载但未完成的压缩文件，退出 Android Studio ，然后把未完成压缩文件删除，把下载好的完整压缩文件放进去，但是不要解压，
 重新打开该工程就可以正常使用了。
 
+
+
 需要注意的是，一定是完全退出 Android Studio 。如果你只是在之前下载 Gradle 时取消了，回到选择工程对话框时，此时并没有完全退出 Android Studio ,
-你点击退出时，还能看到一个是否取消下载的提示，说明没有完全退出，所以没完全退出时再进入该工程，并不会生效。
+你点击退出时，还能看到一个是否取消下载的提示，说明没有完全退出，所以没完全退出时再进入该工程，并不会生效，完全退出后再进入，重新加载就可以了。
 
 ---
 
