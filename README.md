@@ -59,15 +59,78 @@
 
 ---
 
+#### gradle-2.10-all.zip
+- 496d60c331f8666f99b66d08ff67a880697a7e85a9d9b76ff08814cf97f61a4c
+
+#### gradle-2.11-all.zip
+- a1242e4db8f979998796b1844e608c2acf8f8f54df518bbb3d5954e52253ba71
+
+#### gradle-2.12-all.zip
+- d8b1948a575dc9ec13e03db94502ce91815d73da023f611296c04b852164cb5f
+
+#### gradle-2.13-all.zip
+- fb126ed684150f9dc39a811cbcf4daada4292fd387ed998c151ff2cf2536d94d
+
+#### gradle-2.14-all.zip
+- 65bbc0ef9c48be86fb06522fc927d59dcc7c04266f2bb8156be76971f7c3fc4a
+
 #### gradle-2.14.1-all.zip
 - 88a910cdf2e03ebbb5fe90f7ecf534fc9ac22e12112dc9a2fee810c598a76091
+
+#### gradle-3.0-all.zip
+- 9c8b7564ea6a911b5b9fcadd60f3a6cea4238413c8b1e1dd14400a50954aab99
+
+#### gradle-3.1-all.zip
+- 43be380834a13e28e9504c21f67fe1a8895ab54f314a6596601896dca7213482
+
+#### gradle-3.2-all.zip
+- e25ff599ff268182b597c371ed94eb3c225496af5d4e7eb9dcbb08d30f93a9ec
+
+#### gradle-3.2.1-all.zip
+- 0209696f1723f607c475109cf3ed8b51c8a91bb0cda05af0d4bd980bdefe75cd
 
 #### gradle-3.3-all.zip
 - 71a787faed83c4ef21e8464cc8452b941b5fcd575043aa29d39d15d879be89f7
 
+#### gradle-3.4-all.zip
+- 37c2fdce55411e4c89b896c292cae1f8f437862c8433c8a74cfc3805d7670c0a
+
+#### gradle-3.4.1-all.zip
+- ed7e9c8bb41bd10d4c9339c95b2f8b122f5bf13188bd90504a26e0f00b123b0d
+
+#### gradle-3.5-all.zip
+- d84bf6b6113da081d0082bcb63bd8547824c6967fe68704d1e3a6fde822b7212
+
+#### gradle-3.5.1-all.zip
+- 69d99ade952de3727b65a88f3188ee72231ff4e28c2d00aacfc96a42c6d6f303
+
+#### gradle-4.0-all.zip
+- a0af75d3d35799a90f56255a24de69c53cd9aea90f0b532586c8f818668e1734
+
+#### gradle-4.0.1-all.zip
+- 8a8005633be0ca38a206f2590445685683452a0b98a5d8ffd5b8413be09bf998
+
+#### gradle-4.0.2-all.zip
+- b683cb9f8510f3ae9533871e6b244c24eb9398e8c5b432471f91f48dbc91e7a9
+
 #### gradle-4.1-all.zip
 - 5c07b3bac2209fbc98fb1fdf6fd831f72429cdf8c503807404eae03d8c8099e5
 
+#### gradle-4.2-all.zip
+- 05590c601cca25e75d6fd44e0eb5a5bdb1049a5cb8faec8b2f73cc3c96daeb52
+
+#### gradle-4.2.1-all.zip
+- 7897b59fb45148cd8a79f078e5e4cef3861a252dd1a1af729d0c6e8a0a8703a8
+
+#### gradle-4.3-all.zip                
+- b3afcc2d5aaf4d23eeab2409d64c54046147322d05acc7fb5a63f84d8a2b8bd7
+
+#### gradle-4.3.1-all.zip
+- c5b67330a8a211539d713852c56a6a80fdea365d8902df92d1759d913d18fa2d
+
 #### gradle-4.4-all.zip
 - 7a2c66d1a78f811d5f37d14630ad21cec5e77a2a4dc61e787e2257a6341016ce
+
+#### gradle-4.5-all.zip
+- 6ac2f8f9302f50241bf14cc5f4a3d88504ad20e61bb98c5fd048f7723b61397e
 
